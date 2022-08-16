@@ -31,7 +31,7 @@
   <code><img title="android" height="25" src="https://github.com/StartCodeingWithSayam/photos/blob/master/android.svg"></code>
   <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/StartCodeingWithSayam/photos/blob/master/html5.svg"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/StartCodeingWithSayam/photos/blob/master/html.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/StartCodeingWithSayam/photos/blob/master/css.svg"></code>
   <code><img title="Java" height="25" src="https://github.com/StartCodeingWithSayam/photos/blob/master/java.svg"></code>
 </p>

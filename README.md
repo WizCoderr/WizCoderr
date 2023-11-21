@@ -24,7 +24,9 @@
 </p>
 <hr>
 
-[![WizCoderr's GitHub | Stats](https://stats.quine.sh/WizCoderr/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=WizCoderr)
+[![WizCoderr's GitHub | Stats](https://stats.quine.sh/WizCoderr/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=WizCoderr)
+
+[![WizCoderr's GitHub | Dependencies](https://stats.quine.sh/WizCoderr/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=WizCoderr)
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 <p align="center">

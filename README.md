@@ -23,8 +23,6 @@
   📫 How to reach me: <a href="mailto: ssayam200@gmail.com">ssayam200@gmail.com</a>
 </p>
 <hr>
-
-[![WizCoderr's GitHub | Stats](https://stats.quine.sh/WizCoderr/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=WizCoderr)
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 <p align="center">
   <code><img title="C" height="25" src="https://github.com/WizCoderr/photos/blob/master/clang.svg"></code>
@@ -43,9 +41,9 @@
     
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=wizcoderr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wizcoderr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wizcoderr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=wizcoderr&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wizcoderr&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wizcoderr&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 

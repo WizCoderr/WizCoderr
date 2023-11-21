@@ -38,7 +38,28 @@
   <code><img title="comunity" height="25" src="https://github.com/WizCoderr/photos/blob/master/comunity.svg"></code>
 </p>
 <hr>
-[![WizCoderr's GitHub | Languages Over Time](https://stats.quine.sh/WizCoderr/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=WizCoderr)
+    
+### 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=wizcoderr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wizcoderr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wizcoderr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=wizcoderr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=wizcoderr&limit=5&theme=alduin&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+[![](https://visitcount.itsvg.in/api?id=wizcoderr&icon=1&color=1)](https://visitcount.itsvg.in)
 <p align = "center">
     ⭐️ From <a href="https://github.com/WizCoderr/">WizCoderr</a>
 </p>

@@ -36,7 +36,8 @@
   <code><img title="Java" height="25" src="https://github.com/WizCoderr/photos/blob/master/java.svg"></code>
   <code><img title = "Kotlin" height="25" src="https://github.com/WizCoderr/photos/blob/master/kotlin.svg"</code>
 </p>
-<hr>  
+<hr>
+    
 ### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=wizcoderr&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br/>

@@ -16,7 +16,7 @@
   <br>
   🔬 I’m currently working on Django
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 I’m currently learning Flutter and react Native
   <br>
   💬 Ask me about <a href="https://github.com/WizCoderr/WizCoderr/issues" title="Issues">Here</a>
   <br>
@@ -26,8 +26,7 @@
 
 [![WizCoderr's GitHub | Stats](https://stats.quine.sh/WizCoderr/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=WizCoderr)
 
-[![WizCoderr's GitHub | Dependencies](https://stats.quine.sh/WizCoderr/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=WizCoderr)
-
+[![WizCoderr's GitHub | Topics Over Time](https://stats.quine.sh/WizCoderr/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=WizCoderr)
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 <p align="center">
   <code><img title="C" height="25" src="https://github.com/WizCoderr/photos/blob/master/clang.svg"></code>

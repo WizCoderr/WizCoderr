@@ -38,7 +38,7 @@
   <code><img title="comunity" height="25" src="https://github.com/WizCoderr/photos/blob/master/comunity.svg"></code>
 </p>
 <hr>
-÷
+[![WizCoderr's GitHub | Languages Over Time](https://stats.quine.sh/WizCoderr/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=WizCoderr)
 <p align = "center">
     ⭐️ From <a href="https://github.com/WizCoderr/">WizCoderr</a>
 </p>

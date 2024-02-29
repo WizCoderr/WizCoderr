@@ -2,7 +2,6 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn"><img width="22" src="https://github.com/StartCodeingWithSayam/photos/blob/master/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://www.instagram.com/____sayam200____/" title="Instagram Profile"><img width="22" src="https://github.com/StartCodeingWithSayam/photos/blob/master/insta.svg"> Instagram</a></code>
 </h5>
 <br>

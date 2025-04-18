@@ -1,8 +1,8 @@
 <h3 align="center">Hello there, I'm Sayam 👋</h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn"><img width="22" src="https://github.com/StartCodeingWithSayam/photos/blob/master/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/____sayam200____/" title="Instagram Profile"><img width="22" src="https://github.com/StartCodeingWithSayam/photos/blob/master/insta.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/wizcoderr/" title="LinkedIn"><img width="22" src="https://github.com/StartCodeingWithSayam/photos/blob/master/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/wizcoderr/" title="Instagram Profile"><img width="22" src="https://github.com/StartCodeingWithSayam/photos/blob/master/insta.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -13,9 +13,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  🔬 I’m currently working on Django
-  <br>
-  📚 I’m currently learning Flutter and react Native
+  📚 I’m currently learning Flutter.
   <br>
   💬 Ask me about <a href="https://github.com/WizCoderr/WizCoderr/issues" title="Issues">Here</a>
   <br>
